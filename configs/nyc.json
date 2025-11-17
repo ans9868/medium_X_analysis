@@ -1,0 +1,8 @@
+{
+  "region_name": "nyc",
+  "celeb_file": "../data/local_celebrities/nyc.json",
+  "users_output": "../data/users/nyc_users.jsonl",
+  "tweets_output": "../data/tweets/nyc_tweets.jsonl",
+  "max_tweets_per_user": 100
+}
+

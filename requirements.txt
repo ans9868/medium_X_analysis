@@ -1,0 +1,10 @@
+python-dotenv
+requests
+pandas
+numpy
+matplotlib
+scikit-learn
+umap-learn
+sentence-transformers
+tqdm
+pathlib

@@ -1,0 +1,6 @@
+{
+  "sports": ["@premierleague", "@Arsenal"],
+  "music": ["@TheO2", "@RoyalAlbertHall"],
+  "tech_lifestyle": ["@techUK", "@LDNTechWeek"],
+  "comedy": ["@Tate", "@britishmuseum"]
+}
