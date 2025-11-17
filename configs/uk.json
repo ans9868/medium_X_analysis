@@ -42,6 +42,7 @@
     "belfast",
     "ni"
   ],
-  "max_mentions_per_seed": 1,
+  "max_adjacent_users": 200,
+  "num_random_locals": 100,
   "max_tweets_per_user": 1
 }
