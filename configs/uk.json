@@ -43,5 +43,5 @@
     "ni"
   ],
   "max_mentions_per_seed": 1,
-  "max_tweets_per_user": 2
+  "max_tweets_per_user": 1
 }
