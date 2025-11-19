@@ -8,7 +8,7 @@ Hello, this is my jupyter notebook counterpart for my '2 Ways of Analyzing Geogr
 Feel free to report issues. Notice that the findings should not be considered a complete analysis of these regions cultures as a set of peope from X do not represent the full cultural identity of any region, but it does give us some insights. 
 
 
-## General Architecture
+##  Files and Schemas
 
 **Config Files** (`configs/*.json`)
 - Region settings: bio keywords, output paths, API limits
