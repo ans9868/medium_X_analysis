@@ -1,5 +1,5 @@
 # medium_X_analysis 
-Hello, this is my jupyter notebook counterpart for my '2 Ways of Analyzing Geographic Culture Through X API v2 + British LLM?' article on Medium.com. 
+Hello, this is my jupyter notebook counterpart for my '2 Ways of Analyzing Geographic Culture Through X API v2 + British LLM?' article on Medium.com. Link --> https://medium.com/@adelnsahuc/analyzing-geographic-culture-through-x-api-v2-british-llm-53d26f832876?postPublishedType=repub
 
 ### steps 1.x are done in notebooks/x_api_culture_pipeline.ipynb
 
