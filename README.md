@@ -5,7 +5,7 @@ Hello, this is my jupyter notebook counterpart for my '2 Ways of Analyzing Geogr
 
 ### steps 2.x are done in notebooks/x_api_culture_analysis.ipynb
 
-Feel free to report issues. Notice that the findings should not be considered a complete analysis of these regions cultures as a set of peope from X do not represent the full cultural identity of any region, but it does give us some insights. 
+Feel free to report issues. Notice that the findings should not be considered a complete analysis of these regions cultures as a set of people from X do not represent the full cultural identity of any region, but it does give us some insights. 
 
 
 ##  Files and Schemas
